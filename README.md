@@ -2,20 +2,20 @@
 Implementation of "EM Simulation-Aided Zero-Shot Learning for SAR Automatic Target Recognition".
 
 ## System requirements
--Windows 7
--Python 3.6+/2.7+
--Tensorflow
--SciPy
--NumPy
--MATLAB
+- Windows 7
+- Python 3.6+/2.7+
+- Tensorflow
+- SciPy
+- NumPy
+- MATLAB
 
 ## Datasets
 A few MSTAR samples and simulated T72 data are listed here. MSTAR data can be downloaded from https://www.sdms.afrl.af.mil/-datasets/mstar/. 
 
--About 20 MSTAR samples: MSTAR_part.mat
--Simulation T72: data_simu.mat
--Synthetic image: HB06165_with_mstar.mat
--VGG19 model: download it at [here](https://pan.baidu.com/s/1nJTTjmZIsneTgv_Uf8DxgA) and store it in './data/'.
+- About 20 MSTAR samples: MSTAR_part.mat
+- Simulation T72: data_simu.mat
+- Synthetic image: HB06165_with_mstar.mat
+- VGG19 model: download it at [here](https://pan.baidu.com/s/1nJTTjmZIsneTgv_Uf8DxgA) and store it in './data/'.
 
 ## Target detection
 Use `target_detection` to detect the targets in the synthetic image. It read in HB06165_with_mstar.mat, detect the targets, modify the cropped images and save it to ./data/scene_test_181_fans.mat.
@@ -27,16 +27,13 @@ Run `Python main.py --is_test=True` to classify the detected images. The classif
 Use `target_cla` to compare the ground truth and recognition results.
 
 ## Others
--To train the network: `Python main.py --mode='ZSL'`
--Ablation experiments: `Python main.py --mode='-FANS'` `Python main.py --mode='-Style'` `Python main.py --mode='-Segmentation'`
+- To train the network: `Python main.py --mode='ZSL'`
+- Ablation experiments: `Python main.py --mode='-FANS'` `Python main.py --mode='-Style'` `Python main.py --mode='-Segmentation'`
 
 ## Author
--[Qian Song](https://github.com/QianSong-Cherry)  Contact me at songq15@fudan.edu.cn.
-
--Qian Guo
-
--Wei Ao
-
+- [Qian Song](https://github.com/QianSong-Cherry)  Contact me at songq15@fudan.edu.cn.
+- Qian Guo
+- Wei Ao
 
 
 ## Reference
