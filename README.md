@@ -29,7 +29,7 @@ Use `target_cla` to compare the ground truth and recognition results.
 - To train the network: `Python main.py --mode='ZSL'`
 - Ablation experiments: `Python main.py --mode='-FANS'` `Python main.py --mode='-Style'` `Python main.py --mode='-Segmentation'`
 
-## Author
+## Authors
 - [Qian Song](https://github.com/QianSong-Cherry)  Contact me at songq15@fudan.edu.cn.
 - Qian Guo
 - Wei Ao
