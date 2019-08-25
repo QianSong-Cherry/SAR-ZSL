@@ -36,7 +36,7 @@ Use `target_cla` to compare the ground truth and recognition results.
 
 
 ## Reference
-[1] Q. Song, H. Chen, F. Xu, and T.J. Cui, "EM Simulation-Aided Zero-Shot Learning for SAR Automatic Target Recognition," IEEE GRSL, 2019.
-[2] D. Cozzolino, S. Parrilli, G. Scarpa, G. Poggi and L. Verdoliva. “Fast Adaptive Nonlocal SAR Despeckling,” IEEE Geoscience and Remote Sensing Letters, vol. 11, no. 2, pp. 524-528, 2014.
-[3]	K. Simonyan, and A. Zisserman, “Very Deep Convolutional Networks for Large-scale Image Recognition,” arXiv:1409.1556, 2014.
-[4] L. J. P. van der Maaten and G. E. Hinton, “Visualizing High-Dimensional Data Using t-SNE,” Journal of Machine Learning Research, vol. 9, pp. 2579-2605, 2008.
+1. Q. Song, H. Chen, F. Xu, and T.J. Cui, "EM Simulation-Aided Zero-Shot Learning for SAR Automatic Target Recognition," IEEE GRSL, 2019.
+2. D. Cozzolino, S. Parrilli, G. Scarpa, G. Poggi and L. Verdoliva. “Fast Adaptive Nonlocal SAR Despeckling,” IEEE Geoscience and Remote Sensing Letters, vol. 11, no. 2, pp. 524-528, 2014.
+3.	K. Simonyan, and A. Zisserman, “Very Deep Convolutional Networks for Large-scale Image Recognition,” arXiv:1409.1556, 2014.
+4. L. J. P. van der Maaten and G. E. Hinton, “Visualizing High-Dimensional Data Using t-SNE,” Journal of Machine Learning Research, vol. 9, pp. 2579-2605, 2008.
