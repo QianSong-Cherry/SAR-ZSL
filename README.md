@@ -10,7 +10,7 @@ Implementation of "EM Simulation-Aided Zero-Shot Learning for SAR Automatic Targ
 - MATLAB
 
 ## Datasets
-A few MSTAR samples and simulated T72 data are listed here. MSTAR data can be downloaded from https://www.sdms.afrl.af.mil/-datasets/mstar/. 
+Two synthetic image are used in this repo. MSTAR data can be downloaded from https://www.sdms.afrl.af.mil/-datasets/mstar/. 
 - Synthetic image: HB06165_with_mstar.mat
 - Synthetic image: HB06181_with_mstar.mat
 - Detection network: download it at [here](https://pan.baidu.com/s/16qa5H2ROaJTg3zfAOm63Kg) and store it in './data/'.
