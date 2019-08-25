@@ -31,9 +31,13 @@ Use `target_cla` to compare the ground truth and recognition results.
 -Ablation experiments: `Python main.py --mode='-FANS'` `Python main.py --mode='-Style'` `Python main.py --mode='-Segmentation'`
 
 ## Author
--[Qian Song](https://github.com/QianSong-Cherry)
+-[Qian Song](https://github.com/QianSong-Cherry)  Contact me at songq15@fudan.edu.cn.
+
+-Qian Guo
+
 -Wei Ao
-Contact me at songq15@fudan.edu.cn.
+
+
 
 ## Reference
 [1] Q. Song, H. Chen, F. Xu, and T.J. Cui, "EM Simulation-Aided Zero-Shot Learning for SAR Automatic Target Recognition," IEEE GRSL, 2019.
