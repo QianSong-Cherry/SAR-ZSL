@@ -15,6 +15,7 @@ Two synthetic image are used in this repo. MSTAR data can be downloaded from htt
 - Synthetic image: HB06181_with_mstar.mat
 - Detection network: download it at [here](https://pan.baidu.com/s/16qa5H2ROaJTg3zfAOm63Kg) and store it in './data/'.
 - VGG19 model: download it at [here](https://pan.baidu.com/s/1nJTTjmZIsneTgv_Uf8DxgA) and store it in './data/'.
+- Classification model: download it at [here](https://pan.baidu.com/s/1UqzuLF6_AdsmVerzde53Rg) and store it in './checkpoint/ZSL/'.
 
 ## Target detection
 Use `target_detection` to detect the targets in the synthetic image. It read in HB06165_with_mstar.mat, detect the targets, modify the cropped images and save it to ./data/scene_test_181_fans.mat.
